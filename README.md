@@ -1,5 +1,3 @@
-# Shortest-Distance-GPS-C- 
-
 # TN Shortest Path Finder
 
 ## Description
@@ -36,4 +34,22 @@ Adjacency Matrix (Distances in miles):
     Clarksville    INF             50              INF             INF             230             60              0               INF             140             INF             
     Johnson        INF             INF             INF             90              INF             INF             INF             0               INF             INF             
     Jackson        INF             INF             INF             INF             85              INF             140             INF             0               INF             
-    Cookeville     80              70              90              70              INF             INF             INF             INF             INF             0              
+    Cookeville     80              70              90              70              INF             INF             INF             INF             INF             0
+
+===== TN Shortest Path Finder =====
+1. Display Adjacency Matrix
+2. Find Shortest Path (Dijkstra)
+3. Exit
+Enter your choice (1-3): 2
+Enter starting city: Murfreesboro
+Enter ending city: Chattanooga
+
+Shortest path: Murfreesboro → Nashville → Chattanooga
+Total distance: 165 miles
+
+===== TN Shortest Path Finder =====
+1. Display Adjacency Matrix
+2. Find Shortest Path (Dijkstra)
+3. Exit
+Enter your choice (1-3): 3
+Exiting program. Goodbye!            
