@@ -17,11 +17,7 @@ The program is especially useful for understanding graph-based algorithms and ho
 ---
 
 ## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/stevenGGG23/TN-Shortest-Path-Finder.git
-   cd TN-Shortest-Path-Finder
+```bash
 ===== TN Shortest Path Finder =====
 1. Display Adjacency Matrix
 2. Find Shortest Path (Dijkstra)
